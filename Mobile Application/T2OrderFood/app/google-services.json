@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "430169731795",
+    "firebase_url": "https://t2orderfood.firebaseio.com",
+    "project_id": "t2orderfood",
+    "storage_bucket": "t2orderfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430169731795:android:5b570438585d67d4",
+        "android_client_info": {
+          "package_name": "com.app.t2orderfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430169731795-f8npo8cr93fco2nkjk13oghl2h7l6do4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.t2orderfood",
+            "certificate_hash": "8f5ed4b5235c12d1e248395830e0d052e76f7036"
+          }
+        },
+        {
+          "client_id": "430169731795-e19l209pqnolo910smrql01gae2jq5mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6wDYoPtlaQRtdAU-LNFMMOuQVMxTB0SE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430169731795-e19l209pqnolo910smrql01gae2jq5mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

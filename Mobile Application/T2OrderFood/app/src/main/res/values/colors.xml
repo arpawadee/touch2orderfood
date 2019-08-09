@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app main color-->
+    <color name="colorPrimary">#1b5e20</color>
+    <color name="colorPrimaryDark">#003300</color>
+    <color name="colorAccent">#4c8c4a</color>
+
+    <!--swipe tab color-->
+    <color name="tabIndicatorColor">#FFFFFF</color>
+    <color name="tabSelectedTextColor">#FFFFFF</color>
+    <color name="tabTextColor">#000000</color>
+
+    <!--floating action button color-->
+    <color name="colorNormal">#1b5e20</color>
+    <color name="colorPressed">#4c8c4a</color>
+    <color name="colorRipple">#6ac468</color>
+
+    <!--swipe refresh layout color-->
+    <color name="orange">#f36a21</color>
+    <color name="green">#0ecf48</color>
+    <color name="blue">#21bff3</color>
+    <color name="red">#e21c0e</color>
+    <color name="darkblue">#225cb9</color>
+    <color name="yellow">#fcc512</color>
+
+
+    <!--other color-->
+    <color name="drawer_color">#d4331c03</color>
+    <color name="background_color">#FFFACD</color>
+    <color name="ripple_color">#6ac468</color>
+    <color name="divider">#f2f2f2</color>
+    <color name="text_color">#525252</color>
+    <color name="shadow">#202020</color>
+    <color name="black">#000000</color>
+    <color name="grey">#999999</color>
+    <color name="white">#ffffff</color>
+    <color name="hint">#767676</color>
+    <color name="available">#008c12</color>
+    <color name="sold">#a70b00</color>
+    <color name="navigation">#95015c01</color>
+
+
+    <color name="testcolor">#1b5e20</color>
+
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/drawer_home"
+            android:checked="true"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/drawer_menu"
+            android:icon="@drawable/ic_restaurant_menu_black_24dp"
+            android:title="@string/menu_product" />
+
+        <item
+            android:id="@+id/drawer_cart"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:title="@string/menu_cart"
+            />
+
+        <!--<item-->
+            <!--android:id="@+id/drawer_reservation"-->
+            <!--android:icon="@drawable/ic_drawer_reservation"-->
+            <!--android:title="@string/menu_reservation" />-->
+
+        <!--<item-->
+            <!--android:id="@+id/drawer_gallery"-->
+            <!--android:icon="@drawable/ic_drawer_gallery"-->
+            <!--android:title="@string/menu_gallery" />-->
+
+        <!--<item-->
+            <!--android:id="@+id/drawer_news"-->
+            <!--android:icon="@drawable/ic_drawer_news"-->
+            <!--android:title="@string/menu_news" />-->
+
+        <!--<item-->
+            <!--android:id="@+id/drawer_location"-->
+            <!--android:icon="@drawable/ic_drawer_location"-->
+            <!--android:title="@string/menu_location" />-->
+
+        <!--<item-->
+            <!--android:id="@+id/drawer_social"-->
+            <!--android:icon="@drawable/ic_drawer_social"-->
+            <!--android:title="@string/menu_social" />-->
+
+        <!--<item-->
+            <!--android:id="@+id/drawer_info"-->
+            <!--android:icon="@drawable/ic_drawer_info"-->
+            <!--android:title="@string/menu_info" />-->
+
+        <!--<item-->
+            <!--android:id="@+id/drawer_about"-->
+            <!--android:icon="@drawable/ic_drawer_about"-->
+            <!--android:title="@string/menu_about" />-->
+
+        <!--<item-->
+            <!--android:id="@+id/drawer_share"-->
+            <!--android:icon="@drawable/ic_drawer_share"-->
+            <!--android:title="@string/menu_share" />-->
+
+    </group>
+</menu>
